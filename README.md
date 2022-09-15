@@ -6,7 +6,7 @@ All Girls STEM Society Artificial Intelligence and Machine Learning Workshop
 - [Artificial Intelligenve Tic Tac Toe](https://github.com/Cinderpe1t/AGSS_2022_AI_ML_Workshop_Tic_Tac_Toe)
   - Let's play tic tic toe with artificial intelligences
   - Tic tac toe battle of AI's
-- Machine Learning basics
+- [Machine Learning basics](https://github.com/Cinderpe1t/AGSS_2022_AI_ML_Workshop_Machine_Learning_Basics)
   - Reinforced learning and error back propagation
   - Machine learning practices, repetitions, iterations, or epochs
   - Fashionable classification through machine learning
