@@ -10,6 +10,6 @@ All Girls STEM Society Artificial Intelligence and Machine Learning Workshop
   - Reinforced learning and error back propagation
   - Machine learning practices, repetitions, iterations, or epochs
   - Fashionable classification through machine learning
-- Machine Learning Tic Tac Toe
+- [Machine Learning Tic Tac Toe](https://github.com/Cinderpe1t/AGSS_2022_AI_ML_Workshop_Machine_Learning_Tic_Tac_Toe)
   - Train your own tic tac toe neural network using AI's
   - Tic tac toe battle of your machine vs. AI's
