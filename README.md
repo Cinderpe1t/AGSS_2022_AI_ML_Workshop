@@ -3,7 +3,7 @@ All Girls STEM Society Artificial Intelligence and Machine Learning Workshop
 - [Sorting algorithms visualized](https://github.com/Cinderpe1t/AGSS_2022_AI_ML_Workshop_Sort_Visual)
   - Sorting algorithms visualized
   - Sorting time
-- [Artificial Intelligenve Tic Tac Toe](https://github.com/Cinderpe1t/AGSS_2022_AI_ML_Workshop_Tic_Tac_Toe)
+- [Artificial Intelligence Tic Tac Toe](https://github.com/Cinderpe1t/AGSS_2022_AI_ML_Workshop_Tic_Tac_Toe)
   - Let's play tic tic toe with artificial intelligences
   - Tic tac toe battle of AI's
 - [Machine Learning basics](https://github.com/Cinderpe1t/AGSS_2022_AI_ML_Workshop_Machine_Learning_Basics)
