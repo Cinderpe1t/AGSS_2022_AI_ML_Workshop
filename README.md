@@ -1,5 +1,5 @@
 # AGSS 2022 AI ML Workshop
-All Girls STEM Society Artificial Intelligence and Machine Learning Workshop
+[All Girls STEM Society](https://www.allgirlsstemsociety.org/san-diego.html) Artificial Intelligence and Machine Learning Workshop at Mission Valley Library on Nov. 19, 2022
 - [Sorting algorithms visualized](https://github.com/Cinderpe1t/AGSS_2022_AI_ML_Workshop_Sort_Visual)
   - Sorting algorithms visualized
   - Sorting time
